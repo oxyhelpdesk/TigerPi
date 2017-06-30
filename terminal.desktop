@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Name to be shown on desktop
+Name=Terminal
 Comment=My comment
 Icon=/usr/share/pixmaps/openbox.xpm
 Exec=lxterminal

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Launch Chrome
+Comment=My comment
+Exec=/home/pi/dd_script/launch_chrome.sh
+Type=Application
+Encoding=UTF-8
