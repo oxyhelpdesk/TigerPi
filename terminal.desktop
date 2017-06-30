@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Name to be shown on desktop
+Comment=My comment
+Icon=/usr/share/pixmaps/openbox.xpm
+Exec=lxterminal
+Type=Application
+Encoding=UTF-8
+Terminal=false
+Categories=None;
