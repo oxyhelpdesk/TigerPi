@@ -5,7 +5,7 @@ sleep 30; #pauses script so wifi connection can be ensured
 file="/home/pi/dd_script/slideshow.txt"; #variable declaration for text file
 SLIDESHOW=$(cat "$file"); #variable declaration for network
 echo $SLIDESHOW; #initializes variable
-chromium-browser --kiosk --incognito --no-first-run --disable-infobars --disable-session-crashed-bubble $SLIDESHOW; #launches Chrome
+chromium-browser --kiosk --incognito --no-first-run --disable-infobars --disable-session-crashed-bubble 'https://docs.google.com/presentation/d/12Elu9sKHjrdLZuTxbHhWR5yUyIpyeKOpncVH6Cl-IR8/pub?start=true&loop=true&delayms=15000'; #launches Chrome
 #
 #
 #
