@@ -1,7 +1,7 @@
 # TIGERPI OS README
 ## BY ENNY JOLE
 ------------
-These are tools for the TigerPi OS used by the Occidental College TigerPi. TigerPi OS is created with PiBaker. More info on TigerPi can be found [here] (helpdesk.oxycreates.org/kb/TigerPi).
+These are tools for the TigerPi OS used by the Occidental College TigerPi. TigerPi OS is created with PiBaker. More info on TigerPi can be found [here](helpdesk.oxycreates.org/kb/TigerPi).
 ## SETUP DETAILS
 1. At first boot, the Pi will enable VNC, SSH, and connect to wifi.
 1. The user password will be changed.
